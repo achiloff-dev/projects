@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.17491cab.css","mappings":"AAAA,EAGE,qBAAsB,CAFtB,QAAS,CACT,SAEF,CAEA,KACE,iBACF,CAEC,MACC,oBACF","sources":["App.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n.App {\n  text-align: center;\n}\n\n ul li {\n  list-style-type: none;\n}\n\n\n"],"names":[],"sourceRoot":""}
